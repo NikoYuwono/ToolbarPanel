@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vertical Drawer Layout</string>
+    <string name="open_panel">Open The Panel</string>
+    <string name="close_panel">Close The Panel</string>
+</resources>
