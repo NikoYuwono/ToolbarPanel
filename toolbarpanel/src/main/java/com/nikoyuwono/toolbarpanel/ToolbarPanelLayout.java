@@ -121,14 +121,6 @@ public class ToolbarPanelLayout extends RelativeLayout {
 
     @Override
     public void computeScroll() {
-        // final int childCount = getChildCount();
-        // float scrimOpacity = 0;
-        // for (int i = 0; i < childCount; i++) {
-        // final float onscreen = ((LayoutParams) getChildAt(i).getLayoutParams()).onScreen;
-        // scrimOpacity = Math.max(scrimOpacity, onscreen);
-        // }
-        // mScrimOpacity = scrimOpacity;
-
         if (dragHelper.continueSettling(true)) {
             ViewCompat.postInvalidateOnAnimation(this);
         }

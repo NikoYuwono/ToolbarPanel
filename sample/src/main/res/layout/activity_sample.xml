@@ -12,7 +12,7 @@
         android:id="@+id/content_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/color_accent">
+        android:background="@color/white">
 
         <TextView
             android:id="@+id/open_button"
@@ -43,7 +43,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:text="@string/close_panel"
-            android:textColor="@color/color_accent"
+            android:textColor="@color/white"
             android:textSize="20sp" />
 
     </RelativeLayout>
