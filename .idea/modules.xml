@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ToolbarPanel.iml" filepath="$PROJECT_DIR$/ToolbarPanel.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/toolbarpanel/toolbarpanel.iml" filepath="$PROJECT_DIR$/toolbarpanel/toolbarpanel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toolbar-panel/toolbar-panel.iml" filepath="$PROJECT_DIR$/toolbar-panel/toolbar-panel.iml" />
     </modules>
   </component>
 </project>

@@ -11,7 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/sample" />
-            <option value="$PROJECT_DIR$/toolbarpanel" />
+            <option value="$PROJECT_DIR$/toolbar-panel" />
           </set>
         </option>
       </GradleProjectSettings>
