@@ -43,8 +43,10 @@ The key is to set `panelId` and `toolbarId` to `ToolbarPanelLayout` so it can de
 
 To open and close panel programatically you can call
 
+```
 ToolbarPanelLayout.openPanel(); // Open the panel
 ToolbarPanelLayout.closePanel(); // Close the panel
+```
 
 And to lock the panel you can use `ToolbarPanelLayout.setLockMode(int lockMode);`
 which support 3 Mode :
