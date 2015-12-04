@@ -1,4 +1,7 @@
 # ToolbarPanel
+
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ToolbarPanel-green.svg?style=true)](https://android-arsenal.com/details/1/2865)
+
 Toolbar that can be slided down to show a panel.
 This library is inspired from Android Drawerlayout, but instead of showing drawer from either left or right this library will provide you function to pull down the toolbar to show a panel which you can customize by yourself.
 
