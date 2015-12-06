@@ -99,7 +99,7 @@ public void onPanelClosed(Toolbar toolbar, View panelView);
 You can grab it via Gradle :
 
 ```
-compile 'com.nikoyuwono:toolbar-panel:0.1'
+compile 'com.nikoyuwono:toolbar-panel:0.1.1'
 ```
 
 #License
