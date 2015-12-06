@@ -76,7 +76,7 @@ public class ToolbarPanelLayout extends RelativeLayout {
                 R.styleable.ToolbarPanelLayout, 0, 0);
 
         try {
-            toolbarId = a.getResourceId(R.styleable.ToolbarPanelLayout_toolbarId, -1);
+            toolbarId = a.getResourceId(R.styleable.ToolbarPanelLayout_pullableToolbarId, -1);
             panelId = a.getResourceId(R.styleable.ToolbarPanelLayout_panelId, -1);
         } finally {
             a.recycle();
