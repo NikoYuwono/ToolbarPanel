@@ -19,7 +19,7 @@ To use it you need to implement `ToolbarPanelLayout` as your root layout :
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:panelId="@+id/panel"
-    app:toolbarId="@+id/toolbar">
+    app:pullableToolbarId="@+id/toolbar">
 
     <RelativeLayout
         android:id="@+id/content_container"
@@ -43,7 +43,7 @@ To use it you need to implement `ToolbarPanelLayout` as your root layout :
 </com.nikoyuwono.toolbarpanel.ToolbarPanelLayout>
 ```
 
-The key is to set `panelId` and `toolbarId` to `ToolbarPanelLayout` so it can decide where to draw the panel
+The key is to set `panelId` and `pullableToolbarId` to `ToolbarPanelLayout` so it can decide where to draw the panel
 
 To open and close panel programatically you can call
 
